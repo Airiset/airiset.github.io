@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-My name is Eric Pimentel (pee-men-TEL). I am a software engineer based in
+My name is Eric Pimentel (pee-men-TEL). I am a software developer based in
 Toronto, Canada. I am passionate about programming language and compiler
 design, as well as systems engineering.
 
